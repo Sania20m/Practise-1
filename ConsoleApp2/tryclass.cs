@@ -12,6 +12,7 @@ namespace ConsoleApp2
         static void m1()
         {
             Console.WriteLine("Hwlll");
+            Console.WriteLine("Iam in f0 branch");
         }
     }
 }
